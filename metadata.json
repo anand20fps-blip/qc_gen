@@ -1,0 +1,5 @@
+{
+  "name": "BookQC - PDF Quality Control",
+  "description": "A local, offline-capable PDF quality control dashboard that pairs with a Python/Unsupervised Learning backend to detect widows, orphans, empty pages, and TOC issues.",
+  "requestFramePermissions": []
+}
